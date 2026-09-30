@@ -5,9 +5,7 @@ My name is Sanket Wakde, and I am a final-year B.Tech student in Information Tec
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/sanket-wakde-079829229" style="text-decoration:none" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60"/>
-</a>    <a href="https://codepen.io/@Sanket-Wakde" style="text-decoration:none" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="60"/>
-</a>    <a style="text-decoration:none" href="mailto:snktssw567@gmail.com">
+</a>      <a style="text-decoration:none" href="mailto:snktssw567@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60"/>
 </a>
 
